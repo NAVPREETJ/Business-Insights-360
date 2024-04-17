@@ -3,6 +3,10 @@ AtliQ Business Insights 360
 About 
 <hr>
 This project main aim is to present different aspect of AtliQ hardware i.e. Finance,Sales,Supply Chain ,Marketing,Executive.
+<br>
+Live Dashboard Link
+<br>
+https://app.powerbi.com/view?r=eyJrIjoiYmE0MDczY2QtNzljMy00ZmY2LWEzNWItZTI0ODllMWUzNDYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 <hr>
 Finance View
 <hr>
