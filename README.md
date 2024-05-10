@@ -105,7 +105,7 @@ Key Terms Used
 <BR>
 2.Gross sales,Gross margin 
 <br>
-3.Pre invoice deduction,posty invoice deductions
+3.Pre invoice deduction,post invoice deductions
 <br>
 4.COGS,YTG,YTD
 <BR>
