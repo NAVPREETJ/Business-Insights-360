@@ -4,10 +4,10 @@
 <hr>
 This project main aim is to present different aspect of AtliQ hardware i.e. Finance,Sales,Supply Chain ,Marketing,Executive.
 <br>
-Live Dashboard Link
+Live Dashboard Link :
+https://lnkd.in/gQtYERTu
 <br>
-https://app.powerbi.com/view?r=eyJrIjoiYmE0MDczY2QtNzljMy00ZmY2LWEzNWItZTI0ODllMWUzNDYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
+Presentation link:https://www.linkedin.com/posts/navpreetjudge_excited-to-share-my-first-power-bi-project-activity-7195147267169824768--e5M?utm_source=share&utm_medium=member_desktop
 <hr>
 Finance View
 <hr>
